@@ -1,0 +1,2 @@
+# node-gitversion
+A Docker image based on [library/node:stretch](https://hub.docker.com/_/node/) including the latest stable version of [GitVersion](https://github.com/GitTools/GitVersion) (using Mono).
